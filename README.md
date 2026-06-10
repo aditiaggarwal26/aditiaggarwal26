@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Aditi 👋
 
-<!--
-**aditiaggarwal26/aditiaggarwal26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student
+💻 Learning DSA in Java
+🌱 Exploring Web Development
+🚀 Solving LeetCode Problems
+💡 Fun Fact: I enjoy turning bugs into lessons and algorithms into solutions.
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- Data Structures & Algorithms
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+LinkedIn: www.linkedin.com/in/aditi-aggarwal-8b0806322
