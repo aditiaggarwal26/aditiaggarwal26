@@ -3,7 +3,7 @@
 🎓 B.Tech Student
 💻 Learning DSA in Java
 🌱 Exploring Web Development
-🚀 Solving LeetCode Problems
+🚀 Solved 60+ LeetCode Problems
 💡 Fun Fact: I enjoy turning bugs into lessons and algorithms into solutions.
 
 ## Skills
